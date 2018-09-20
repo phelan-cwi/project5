@@ -1,0 +1,24 @@
+h1 {
+    font-size: 150%;
+    color: blue;
+    margin-bottom: .5em;
+}
+h2 {
+    margin-bottom: .25em;
+}
+input, select, textarea {
+    width: 20em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+input[type="checkbox"], [type="radio"] {
+    width: 2em;
+}
+
+#registration_info span {
+    color: red;
+}
+td {
+	width: 9em;
+}
